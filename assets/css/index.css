@@ -22,17 +22,13 @@
     top: 10%;
     left: 10%;
     
-
     box-shadow:
     0 0.9px 1.5px rgba(0, 0, 0, 0.073),
     0 2.1px 3.5px rgba(0, 0, 0, 0.105),
     0 3.9px 6.6px rgba(0, 0, 0, 0.13),
     0 6.9px 11.8px rgba(0, 0, 0, 0.155),
     0 13px 22.1px rgba(0, 0, 0, 0.187),
-    0 31px 53px rgba(0, 0, 0, 0.26)
-  ;
-  
-
+    0 31px 53px rgba(0, 0, 0, 0.26);
 }
 
 /* playerPosition  */
@@ -40,8 +36,7 @@
 .playerPosition{
     position: absolute;
     top: 20%;
-    text-align: center
-    ;
+    text-align: center;
 }
 
 .player0Position {
@@ -80,8 +75,7 @@
     0 3.9px 6.6px rgba(0, 0, 0, 0.13),
     0 6.9px 11.8px rgba(0, 0, 0, 0.155),
     0 13px 22.1px rgba(0, 0, 0, 0.187),
-    0 31px 53px rgba(0, 0, 0, 0.26)
-  ;
+    0 31px 53px rgba(0, 0, 0, 0.26);
 }
 
 .currentScore p {
@@ -104,7 +98,6 @@
     left: 50%;
     margin-left: -75px;
     top: 65%;
-   
 }
 
 .btn {
@@ -142,8 +135,6 @@
 
 .btn:active{
     padding: 16px 8px;
-  
-
 }
 
 /* Dice  */
@@ -163,8 +154,7 @@
     0 12.5px 10px rgba(0, 0, 0, 0.035),
     0 22.3px 17.9px rgba(0, 0, 0, 0.042),
     0 41.8px 33.4px rgba(0, 0, 0, 0.05),
-    0 100px 80px rgba(0, 0, 0, 0.07)
-  ;
+    0 100px 80px rgba(0, 0, 0, 0.07);
 }
  
 /* Active Player  */
@@ -173,9 +163,6 @@
     color: #b34e4b;
     text-shadow: 3px 10px 5px rgba(150, 150, 150, 1);
     font-weight: 900;
-    
-
-
 }
 
 
