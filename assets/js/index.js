@@ -14,9 +14,6 @@ let winnerGoal
 let maximumScore
 let promptWinnerGoal
 
-
-
-
 // Functions 
 function playGameDelay() {
     playGameTrueDelay = setTimeout(function () { playGame = true }, 1000)
